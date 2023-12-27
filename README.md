@@ -1,4 +1,4 @@
-# ScissorsStonePaperGame
+# Scissors-Stone-Paper-Game
 The "Scissors, Stone, Paper" program is a simple console-based C++ game where the player competes against the computer. Choose your move, play multiple rounds, and see who wins!
 This is a simple console-based game implementation of the popular "Scissors, Stone, Paper" game in C++. The game allows players to compete against the computer in a series of rounds and determines the winner based on the predefined rules.
 
